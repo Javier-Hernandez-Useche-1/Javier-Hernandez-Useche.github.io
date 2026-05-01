@@ -65,7 +65,7 @@ font-size: 20px;
 justify-content: center;
 flex-wrap: wrap;
 gap: 15px;
-padding: 5px;
+padding: 0px;
 }
 .nav-list a{
 color: white;
